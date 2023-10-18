@@ -9,6 +9,10 @@ h1{
     font-size:60px;
 }
 
+.img:hover{
+    background-color:#202020;
+}
+
 
 
 /*medium*/
