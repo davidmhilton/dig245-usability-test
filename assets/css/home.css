@@ -1,0 +1,26 @@
+/*small is default*/
+
+.img{
+    height:auto;
+    width: 100%;
+}
+
+h1{
+    font-size:60px;
+}
+
+
+
+/*medium*/
+@media (min-wdth: 768px){
+    h1{
+        font-size: 100px;
+    }
+}
+
+/*large*/
+@media (min-width: 992px){
+    h1{
+        font-size: 100px;
+    }
+}
